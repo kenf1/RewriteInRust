@@ -1,4 +1,4 @@
-use yaqr;
+use yaqr; //includes image::DynamicImage
 
 fn main(){
     //get image from url
