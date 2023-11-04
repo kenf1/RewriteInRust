@@ -2,12 +2,9 @@
 
 A collection of scripts and apps rewritten in Rust
 
-> My job: Rust,
-> 
-> My hobby: Rust,
-> 
-> My etiology: Rust,
-> 
-> My profile pic: REDACTED
+> My job: Rust,  
+> My hobby: Rust,  
+> My etiology: Rust,  
+> My profile pic: REDACTED  
 >
 > \- Programmers are also human

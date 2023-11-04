@@ -1,7 +1,8 @@
 {
     //disable rust-analyzer automatic download of dependencies at start
     "rust-analyzer.files.excludeDirs": [
-        "yaqr_cli",
-        "crop_img"
+        "autoscrape_ittf_rs",
+        "crop_img",
+        "yaqr_cli"
     ]
 }
