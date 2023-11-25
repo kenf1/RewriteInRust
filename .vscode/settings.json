@@ -3,6 +3,7 @@
     "rust-analyzer.files.excludeDirs": [
         "autoscrape_ittf_rs",
         "crop_img",
+        "login_app",
         "mk_new_dirs",
         "tts_example",
         "tts_example1",
